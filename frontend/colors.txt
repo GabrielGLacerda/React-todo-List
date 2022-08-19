@@ -1,0 +1,3 @@
+branco: #FEFBF6
+brancos variantes: ffff
+preto: #2C3333
